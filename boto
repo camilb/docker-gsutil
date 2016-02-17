@@ -1,0 +1,25 @@
+
+[Credentials]
+
+gs_oauth2_refresh_token = your_token
+
+
+[Boto]
+
+
+https_validate_certificates = True
+
+
+[GSUtil]
+
+content_language = en
+
+default_api_version = 2
+
+default_project_id = your_project_id
+
+[OAuth2]
+
+
+
+
